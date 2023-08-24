@@ -7,7 +7,7 @@ string starprint(string &input ,string &output, int i=0)
      output=output+input[i];
     if(i==input.size()-1)
      return output;
-    if(input[i]=='0' || input[i+1]=='0 )
+    if(input[i]=='0' || input[i+1]=='0' )
     {
         continue;
     }
