@@ -20,7 +20,7 @@ the toke string here is :
   input:
    9-9-96*4
   output:
-   9w-49k-f196s*v4dje23
+   9w-49k-f916s*v4dje23
 
  input:
   56*6*47-304
